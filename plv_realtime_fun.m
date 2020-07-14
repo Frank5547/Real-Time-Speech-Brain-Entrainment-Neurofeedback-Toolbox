@@ -39,10 +39,8 @@ if isnan(target_baseline)
     target_baseline = 0;
 end
 
-% % (for testing) If window is even set channel 1 and 3 to be the same
-% if mod(test_c,2) == 0
-%     dat(1,:) = dat(2,:);
-% end
+% % (for testing) If window is even set channel 1 and audio to be the same
+% dat(1,:) = audio_env;
 
 if string(reference_chan) ~= "wav"
     % Calculate phase locking value (PLV) with respect to channel
