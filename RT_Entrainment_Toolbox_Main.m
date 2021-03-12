@@ -74,7 +74,7 @@ cfg.trialdef.prestim     = 0;
 cfg.trialdef.poststim    = 9.59;
 cfg.window = 2;
 % Stimuli and design parameters
-cfg.n_stimuli = 3;
+cfg.n_stimuli = 1;
 cfg.reference_chan = "wav";
 
 % Run Neurofeedback BCI - Make sure to execute rda2ft to create the buffer
