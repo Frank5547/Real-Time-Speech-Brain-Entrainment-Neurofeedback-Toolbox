@@ -17,7 +17,7 @@ Neurofeedback represents a particular type of biofeedback whose aim is to teach 
 - Kleiner M, Brainard D, Pelli D. (2007). What is new in Psychtoolbox-3? Perception, 36. ECVP Abstract Supplement.
 
 ##   Cite As
-Francisco Carrera Arias, Mikel Lizarazu (2020). Real-Time-Speech-Brain-Entrainment-Neurofeedback-Toolbox (https://github.com/Frank5547/Real-Time-Speech-Brain-Entrainment-Neurofeedback-Toolbox), GitHub. Retrieved July 14, 2020.
+Francisco Carrera Arias, Nicola Molinaro, Mikel Lizarazu (2020). Real-Time-Speech-Brain-Entrainment-Neurofeedback-Toolbox (https://github.com/Frank5547/Real-Time-Speech-Brain-Entrainment-Neurofeedback-Toolbox), GitHub. Retrieved July 14, 2020.
 
 
 
